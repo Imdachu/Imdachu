@@ -12,7 +12,7 @@ Currently focused on **Full-Stack Development (MERN, Java, FastAPI)**, **AI/ML f
 - **Web & Backend:** MERN Stack, FastAPI, REST APIs, API Integration  
 - **AI/ML:** PyTorch, TensorFlow, Transformers, LangChain, OpenAI API  
 - **Databases:** PostgreSQL, MongoDB, Redis  
-- **Other:** RPA, Automation, Docker, Git/GitHub  
+- **Other:** Generative ai, Automation, Docker, Git/GitHub  
 
 ---
 
