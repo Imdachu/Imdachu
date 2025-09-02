@@ -10,9 +10,9 @@ Currently focused on **Full-Stack Development (MERN, Java, FastAPI)**, **AI/ML f
 ### 🛠️ Tech Stack  
 - **Languages:** Java, Python, JavaScript  
 - **Web & Backend:** MERN Stack, FastAPI, REST APIs, API Integration  
-- **AI/ML:** PyTorch, TensorFlow, Transformers, LangChain, OpenAI API  
+- **AI/ML:** AI/ML models, LLMs, Generative AI, LangChain, RAG pipelines, API integration (OpenAI, Hugging Face)
 - **Databases:** PostgreSQL, MongoDB, Redis  
-- **Other:** Generative ai, Automation, Docker, Git/GitHub  
+- **Other:** Automation, Docker, Git/GitHub  
 
 ---
 
